@@ -15,4 +15,9 @@ yeet-expr on  mainline [?] is 📦 v0.1.0 via 🦀 v1.63.0-nightly on ☁️ 
 Error: Lmao
 ```
 
+## links
 
+1. [rust-lang/rust #96374](https://github.com/rust-lang/rust/issues/96374)
+2. [rust unstable book](https://doc.rust-lang.org/beta/unstable-book/language-features/yeet-expr.html)
+3. [try trait v2](https://rust-lang.github.io/rfcs/3058-try-trait-v2.html)
+4. [tracking issue for `ops::Yeet`](https://github.com/rust-lang/rust/issues/96374)
